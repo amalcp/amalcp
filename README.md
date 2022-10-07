@@ -7,7 +7,8 @@ DevOps and Open source enthusiast.
 
 *   🌍  I'm based in Dubai
 *   ✉️  You can contact me at [itsamalcp@gail.com](mailto:itsamalcp@gail.com)
-*   🚀  I'm currently working at [Seera Group](http://seera.sa)
+*   💬 Ask me about DevOps | AWS | Kubernetes | Linux
+*   🧠  I'm learning Blockchain | AI 
 *   😄 Pronouns: He/His
 
 
