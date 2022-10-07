@@ -17,6 +17,6 @@ DevOps and Open source enthusiast.
 
   
   ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalcp&show_icons=true&theme=tokyonight)
-  ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amalcp&show_icons=true&locale=en&layout=compact&theme=onedark)
+<!--   ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amalcp&show_icons=true&locale=en&layout=compact&theme=onedark) -->
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=amalcp&theme=vue-dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
